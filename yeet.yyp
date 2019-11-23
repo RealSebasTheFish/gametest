@@ -55,6 +55,22 @@
             }
         },
         {
+            "Key": "302ffe23-8c4f-4f2b-87bb-c04046137fad",
+            "Value": {
+                "id": "5d89b1c1-2359-4445-b169-efbc6731cbfa",
+                "resourcePath": "sprites\\efewqfr2eqf23eqw\\efewqfr2eqf23eqw.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3302034c-4a30-4cf0-93eb-a9a30b357f51",
+            "Value": {
+                "id": "d933a515-344d-4247-982f-bcbb082da236",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "344870c4-b902-47f5-bac6-06ed1da62f05",
             "Value": {
                 "id": "54faac26-ada5-41cc-9df4-176409fd19b8",
