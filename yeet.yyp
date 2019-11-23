@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "76a12c0e-960c-40fe-8f72-7db71ce216e4",
+            "Value": {
+                "id": "73c61f77-a885-4160-b727-66adc26b8955",
+                "resourcePath": "rooms\\owowNUWJIAKSM\\owowNUWJIAKSM.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "80bdf806-64b8-48c8-9de0-0c71151bfa76",
             "Value": {
                 "id": "532fdd8f-2ddf-4c4c-adf2-869e4659ed19",
