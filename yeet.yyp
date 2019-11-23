@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0598ec8b-1f78-4d15-a4b2-5da5e756a883",
+            "Value": {
+                "id": "35054395-f70d-48eb-b3a6-c82695a70e84",
+                "resourcePath": "sprites\\hi_nater\\hi_nater.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1045cfa6-9836-46b6-a58b-72c7265680d3",
             "Value": {
                 "id": "8ac018e2-03d7-42fa-9c4a-f9e453703086",
