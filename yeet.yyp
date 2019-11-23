@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "cde38679-d925-44d4-84f9-764eb9690a8d",
+            "Value": {
+                "id": "ddd91654-f61c-44d0-aefe-0989b8924885",
+                "resourcePath": "sprites\\sNathanIsNotStupid\\sNathanIsNotStupid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d433fd90-6f9d-4f52-b62b-fc24de75a683",
             "Value": {
                 "id": "1ab5254d-d064-4464-9ef6-efdcec856ddd",
