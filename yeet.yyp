@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "344870c4-b902-47f5-bac6-06ed1da62f05",
+            "Value": {
+                "id": "54faac26-ada5-41cc-9df4-176409fd19b8",
+                "resourcePath": "sprites\\brehj\\brehj.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "37af5668-7710-42c4-ab8e-2652a9370e61",
             "Value": {
                 "id": "0ba9b749-f944-4627-9bc7-5e98affadcb4",
